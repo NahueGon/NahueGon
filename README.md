@@ -58,7 +58,7 @@ Inspirada en Google Classroom, diseñada para un instituto de mi ciudad. Incluir
 
 - 📧 Email: [nahuelgonzaleznahuelg2014@gmail.com](mailto:nahuelgonzaleznahuelg2014@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/naudev](https://linkedin.com/in/naudev)
-- 🌐 Portafolio: [portafolio](https://portfolio-nau-dev.vercel.app/)
+- 🌐 Portafolio: [naudev](https://portfolio-nau-dev.vercel.app/)
 
 ---
 
