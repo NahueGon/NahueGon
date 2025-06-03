@@ -1,12 +1,12 @@
 # 👋 ¡Hola! Soy Nahuel
 
-Desarrollador web en formación, apasionado por construir soluciones reales utilizando tecnologías modernas del ecosistema **PHP** y **JavaScript**.
+Desarrollador web, apasionado por construir soluciones reales utilizando tecnologías modernas del ecosistema **PHP** y **JavaScript**.
 
 ---
 
 ### 🧠 Sobre mí
 
-Desde hace más de un año estudio de forma autodidacta y práctica tecnologías como:
+Desde hace más de dos años estudio de forma autodidacta y práctica tecnologías como:
 
 - **PHP y Symfony** para desarrollo backend moderno.
 - **JavaScript**, con enfoque en **React** y **Tailwind CSS** para interfaces dinámicas.
