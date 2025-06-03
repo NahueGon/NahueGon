@@ -56,9 +56,9 @@ Inspirada en Google Classroom, diseñada para un instituto de mi ciudad. Incluir
 
 ### 📫 Contacto
 
-- 📧 Email: [tucorreo@ejemplo.com](mailto:tucorreo@ejemplo.com)
-- 💼 LinkedIn: [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
-- 🌐 Portafolio: [tusitio.dev](https://tusitio.dev) *(opcional)*
+- 📧 Email: [nahuelgonzaleznahuelg2014@gmail.com](mailto:nahuelgonzaleznahuelg2014@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/naudev](https://linkedin.com/in/naudev)
+- 🌐 Portafolio: [portafolio](https://portfolio-nau-dev.vercel.app/)
 
 ---
 
